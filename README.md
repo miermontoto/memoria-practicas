@@ -1,4 +1,2 @@
-# latexTemplate
-Plantilla LaTeX personal para trabajos universitarios.
-
-Basada en la [plantilla para TFM/TFG de la EPI](https://www.overleaf.com/latex/templates/tfm-uniovi-epigijon/qpknqgmdkbxp), hecha por Enrique Lara Renuncio.
+# memoria-practicas
+Memoria de prácticas extracurriculares en Okticket, curso 2022-2023.
